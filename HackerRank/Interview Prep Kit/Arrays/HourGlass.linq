@@ -1,5 +1,6 @@
 <Query Kind="Program" />
 
+// https://www.hackerrank.com/challenges/2d-array/problem
 
 int[][] map = 
 new int[][]

@@ -1,5 +1,7 @@
 <Query Kind="Program" />
 
+// https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem
+
 void Main()
 {
 	Console.WriteLine(rotLeft(test, 10));
